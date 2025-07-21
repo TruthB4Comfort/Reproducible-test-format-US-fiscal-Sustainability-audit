@@ -2,7 +2,7 @@
 Reproducible audit framework for testing U.S. fiscal sustainability and systemic risk. This repository contains a rigorously structured, data-driven test suite validating the claim of perpetual rollover dependency in the U.S. fiscal system. It provides:    Cleanroom-verified Core Arithmetic Tests 
 
 
-🧪 REPRODUCIBLE TEST FORMAT: U.S. FISCAL SUSTAINABILITY MODEL
+REPRODUCIBLE TEST FORMAT: U.S. FISCAL SUSTAINABILITY MODEL
 
 Objective: Provide a reproducible methodology to test the model’s core claims, variables, and failure scenarios (Class I: hard default, Class II: hyperinflation) using public data and defined metrics, ensuring falsifiability and resilience to scrutiny.
 
